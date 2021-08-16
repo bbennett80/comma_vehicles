@@ -7,7 +7,7 @@ def read_html(url):
     return pd.read_html(url)
 
 def write_csv(*tables):
-    supported = pd.concat(tables, ignore_index=True)
+    supported = pd.concat(tables, ignore_index=True).sort_values(by=['Make'])
     supported.to_csv('comma_vehicles.csv', index=False)
     return supported
 
