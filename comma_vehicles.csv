@@ -4,7 +4,7 @@ Acura,RDX 2016-18,AcuraWatch Plus,openpilot,25mph1,12mph
 Acura,RDX 2019-21,All,Stock,0mph,3mph
 Audi,Q2 2018,Driver Assistance,Stock,0mph,0mph
 Audi,A3 Sportback e-tron 2017-18,Prestige,Stock,0mph,0mph
-Audi,A3 2014-18,Prestige,Stock,0mph,0mph
+Audi,A3 2014-19,Prestige,Stock,0mph,0mph
 Buick,Regal 20181,Adaptive Cruise,openpilot,0mph,7mph
 Cadillac,ATS 20181,Adaptive Cruise,openpilot,0mph,7mph
 Chevrolet,Volt 2017-181,Adaptive Cruise,openpilot,0mph,7mph
@@ -125,7 +125,7 @@ Volkswagen,Golf R 2016-19,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Jetta GLI 2021,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Golf GTE 2016,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Touran 2017,Driver Assistance,Stock,0mph,0mph
-Volkswagen,Golf 2015-19,Driver Assistance,Stock,0mph,0mph
+Volkswagen,Golf 2015-20,Driver Assistance,Stock,0mph,0mph
 Volkswagen,"e-Golf 2014, 2019-20",Driver Assistance,Stock,0mph,0mph
 Volkswagen,Atlas 2018-19,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Tiguan 2020,Driver Assistance,Stock,0mph,0mph
