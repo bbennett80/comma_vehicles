@@ -1,7 +1,7 @@
 import pandas as pd
 
 def comma_url():
-    return 'https://raw.githubusercontent.com/commaai/openpilot/master/docs/CARS.md'
+    return 'https://github.com/commaai/openpilot/blob/master/docs/CARS.md'
     
 def read_html(url):
     return pd.read_html(url)
@@ -13,4 +13,4 @@ def write_csv(*tables):
 
 url = comma_url()
 read_page = read_html(url)
-csv = write_csv(read_page[1], read_page[2])
+write_csv(read_page[0], read_page[1])
