@@ -1,8 +1,8 @@
 import pandas as pd
 
 def comma_url():
-    return 'https://github.com/commaai/openpilot'
-
+    return 'https://raw.githubusercontent.com/commaai/openpilot/master/docs/CARS.md'
+    
 def read_html(url):
     return pd.read_html(url)
 
