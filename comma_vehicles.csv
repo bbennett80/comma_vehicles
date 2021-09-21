@@ -39,8 +39,8 @@ Honda,CR-V Hybrid 2017-2019,Honda Sensing,Stock,0mph,12mph
 Honda,CR-V 2017-21,Honda Sensing,Stock,0mph,12mph
 Hyundai,Ioniq Electric 2020,SCC + LKAS,Stock,0mph,0mph
 Hyundai,Ioniq Electric 2019,SCC + LKAS,Stock,0mph,32mph
-Hyundai,Genesis 2015-16,SCC + LKAS,Stock,19mph,37mph
 Hyundai,Elantra Hybrid 2021,SCC + LKAS,Stock,0mph,0mph
+Hyundai,Genesis 2015-16,SCC + LKAS,Stock,19mph,37mph
 Hyundai,Elantra 2017-19,SCC + LKAS,Stock,19mph,34mph
 Hyundai,Ioniq PHEV 2020,SCC + LKAS,Stock,0mph,0mph
 Hyundai,Elantra 2021,SCC + LKAS,Stock,0mph,0mph
@@ -55,28 +55,28 @@ Hyundai,Santa Fe 2019-20,All,Stock,0mph,0mph
 Hyundai,Sonata Hybrid 2021,All,Stock,0mph,0mph
 Jeep,Grand Cherokee 2016-18,Adaptive Cruise,Stock,0mph,9mph
 Jeep,Grand Cherokee 2019-20,Adaptive Cruise,Stock,0mph,39mph
+Kia,Optima 2017,SCC + LKAS,Stock,0mph,32mph
 Kia,Telluride 2020,SCC + LKAS,Stock,0mph,0mph
 Kia,Ceed 2019,SCC + LKAS,Stock,0mph,0mph
 Kia,Stinger 2018,SCC + LKAS,Stock,0mph,0mph
 Kia,Sorento 2018-19,SCC + LKAS,Stock,0mph,0mph
-Kia,Seltos 2021,SCC + LKAS,Stock,0mph,0mph
-Kia,Optima 2017,SCC + LKAS,Stock,0mph,32mph
+Kia,Niro Hybrid 2021,SCC + LKAS,Stock,0mph,0mph
+Kia,Optima 2019,SCC + LKAS,Stock,0mph,0mph
 Kia,Niro PHEV 2019,SCC + LKAS,Stock,10mph,32mph
 Kia,Niro EV 2019-21,SCC + LKAS,Stock,0mph,0mph
 Kia,Forte 2018-21,SCC + LKAS,Stock,0mph,0mph
-Kia,Optima 2019,SCC + LKAS,Stock,0mph,0mph
-Kia,Niro Hybrid 2021,SCC + LKAS,Stock,0mph,0mph
+Kia,Seltos 2021,SCC + LKAS,Stock,0mph,0mph
 Lexus,ES Hybrid 2017-18,LSS,Stock3,0mph,0mph
 Lexus,ES Hybrid 2019-21,All,openpilot,0mph,0mph
-Lexus,NX Hybrid 2018-19,All,Stock3,0mph,0mph
+Lexus,NX 2020,All,openpilot,0mph,0mph
 Lexus,ES 2019-21,All,openpilot,0mph,0mph
 Lexus,UX Hybrid 2019-21,All,openpilot,0mph,0mph
 Lexus,RX Hybrid 2020-21,All,openpilot,0mph,0mph
 Lexus,RX Hybrid 2016-19,All,Stock3,0mph,0mph
 Lexus,RX 2020-21,All,openpilot,0mph,0mph
 Lexus,RX 2016-18,All,Stock3,0mph,0mph
+Lexus,NX Hybrid 2018-19,All,Stock3,0mph,0mph
 Lexus,CT Hybrid 2017-18,LSS,Stock3,0mph,0mph
-Lexus,NX 2020,All,openpilot,0mph,0mph
 Lexus,NX 2018,All,Stock3,0mph,0mph
 Lexus,IS 2017-2019,All,Stock,22mph,0mph
 Nissan,Altima 2019-20,ProPILOT,Stock,0mph,0mph
@@ -128,6 +128,7 @@ Volkswagen,Golf R 2016-19,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Golf Alltrack 2017-18,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Tiguan 2020,Driver Assistance,Stock,0mph,0mph
 Volkswagen,"e-Golf 2014, 2019-20",Driver Assistance,Stock,0mph,0mph
+Volkswagen,California 2021,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Atlas 2018-19,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Golf 2015-20,Driver Assistance,Stock,0mph,0mph
 Volkswagen,Touran 2017,Driver Assistance,Stock,0mph,0mph
