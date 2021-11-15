@@ -108,7 +108,7 @@ Toyota,Alphard 2020,All,openpilot,0mph,0mph
 Toyota,Rav4 Hybrid 2019-21,All,openpilot,0mph,0mph
 Toyota,Sienna 2018-20,All,Stock3,0mph,0mph
 Toyota,Mirai 2021,All,openpilot,0mph,0mph
-Toyota,Highlander Hybrid 2020-21,All,openpilot,0mph,0mph
+Toyota,Highlander Hybrid 2020-22,All,openpilot,0mph,0mph
 Toyota,Highlander Hybrid 2017-19,All,Stock3,0mph,0mph
 Toyota,Highlander 2020-22,All,openpilot,0mph,0mph
 Toyota,Highlander 2017-19,All,Stock3,0mph,0mph
@@ -116,7 +116,7 @@ Toyota,Prius 2016-20,TSS-P,Stock3,0mph,0mph
 Toyota,Corolla Hatchback 2019-22,All,openpilot,0mph,0mph
 Toyota,Avalon Hybrid 2019-21,TSS-P,Stock3,20mph1,0mph
 Toyota,Camry 2018-20,All,Stock,0mph4,0mph
-Toyota,Camry 2021,All,openpilot,0mph4,0mph
+Toyota,Camry 2021-22,All,openpilot,0mph4,0mph
 Toyota,Camry Hybrid 2018-20,All,Stock,0mph4,0mph
 Toyota,Corolla Hybrid 2020-22,All,openpilot,0mph,0mph
 Toyota,Camry Hybrid 2021-22,All,openpilot,0mph,0mph
