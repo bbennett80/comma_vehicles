@@ -75,7 +75,7 @@ Kia,Seltos 2021,SCC + LKAS,Stock,0mph,0mph
 Kia,Sorento 2018-19,SCC + LKAS,Stock,0mph,0mph
 Kia,Stinger 2018,SCC + LKAS,Stock,0mph,0mph
 Kia,K5 2021-22,SCC + LFA,Stock,0mph,0mph
-Kia,Niro EV 2019-22,SCC + LKAS,Stock,0mph,0mph
+Kia,Niro EV 2019-22,All,Stock,0mph,0mph
 Kia,Telluride 2020,SCC + LKAS,Stock,0mph,0mph
 Lexus,ES 2019-21,All,openpilot,0mph,0mph
 Lexus,ES Hybrid 2017-18,LSS,Stock3,0mph,0mph
@@ -111,7 +111,7 @@ Toyota,Sienna 2018-20,All,Stock3,0mph,0mph
 Toyota,Prius Prime 2021-22,All,openpilot,0mph,0mph
 Toyota,Alphard 2020,All,openpilot,0mph,0mph
 Toyota,Prius Prime 2017-20,All,Stock3,0mph,0mph
-Toyota,Prius 2021,All,openpilot,0mph,0mph
+Toyota,Prius 2021-22,All,openpilot,0mph,0mph
 Toyota,Mirai 2021,All,openpilot,0mph,0mph
 Toyota,Highlander Hybrid 2020-22,All,openpilot,0mph,0mph
 Toyota,Highlander Hybrid 2017-19,All,Stock3,0mph,0mph
